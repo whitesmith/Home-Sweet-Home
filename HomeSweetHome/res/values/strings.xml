@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Home Sweet Home</string>
+    <string name="search_networks">Search Networks</string>
+    <string name="choose_network">Choose Home Network</string>
+    
+</resources>
